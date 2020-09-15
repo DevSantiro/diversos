@@ -1,0 +1,4 @@
+function selecFunc(id){
+
+	
+}
